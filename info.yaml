@@ -32,7 +32,7 @@ pinout:
   uo[3]: "out_nand"
   uo[4]: "out_xor"
   uo[5]: "out_xnor"
-  uo[6]: ""
+  uo[6]: "out_nor"
   uo[7]: ""
 
   # Bidirectional pins
